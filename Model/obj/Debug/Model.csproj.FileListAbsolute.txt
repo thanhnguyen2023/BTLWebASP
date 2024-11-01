@@ -1,0 +1,12 @@
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\Model.dll.config
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\Model.dll
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\Model.pdb
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\EntityFramework.dll
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\EntityFramework.xml
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\obj\Debug\Model.csproj.Up2Date
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\obj\Debug\Model.dll
+D:\Code\BTL Web\QLThucPhamHuuCo\Model\obj\Debug\Model.pdb

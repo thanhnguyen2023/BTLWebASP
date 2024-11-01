@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\resource\\admin\\assets\\demo\\chart-area-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\resource\\admin\\assets\\demo\\chart-area-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\resource\\admin\\assets\\demo\\chart-bar-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\resource\\admin\\assets\\demo\\chart-bar-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\commons\\nguyencode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\commons\\nguyencode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\commons\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\commons\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3F696F-E650-4067-9726-09DF86856F54}|Model\\Model.csproj|d:\\code\\btl web\\qlthucphamhuuco\\model\\dao\\user_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3F696F-E650-4067-9726-09DF86856F54}|Model\\Model.csproj|solutionrelative:model\\dao\\user_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|d:\\code\\btl web\\qlthucphamhuuco\\qlthucphamhuuco\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD41EA4-DC58-436D-8664-EDBA09935FBD}|QLThucPhamHuuCo\\QLThucPhamHuuCo.csproj|solutionrelative:qlthucphamhuuco\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chart-bar-demo.js",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-bar-demo.js",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-bar-demo.js",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-bar-demo.js",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-bar-demo.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-01T12:36:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chart-area-demo.js",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-area-demo.js",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-area-demo.js",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-area-demo.js",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Resource\\Admin\\assets\\demo\\chart-area-demo.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-01T12:35:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_LeftMenu.cshtml",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_LeftMenu.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:12:57.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:31:34.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:22:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NguyenCode.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Commons\\NguyenCode.cs",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Commons\\NguyenCode.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Commons\\NguyenCode.cs",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Commons\\NguyenCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:38:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Commons\\UserLogin.cs",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Commons\\UserLogin.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Commons\\UserLogin.cs",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Commons\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:31:07.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\Model\\LoginModel.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Model\\LoginModel.cs",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:21:33.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_Dao.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\Model\\DAO\\User_Dao.cs",
+              "RelativeDocumentMoniker": "Model\\DAO\\User_Dao.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\Model\\DAO\\User_Dao.cs",
+              "RelativeToolTip": "Model\\DAO\\User_Dao.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:21:25.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:59:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:43:08.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "QLThucPhamHuuCo\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\Code\\BTL Web\\QLThucPhamHuuCo\\QLThucPhamHuuCo\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "QLThucPhamHuuCo\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:42:19.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
